@@ -36,3 +36,6 @@ def myPow(x: float, n: int) -> float:
         n //= 2
 
     return result
+def foo_a(n: int) :
+    return (n+(n+1))/2
+
