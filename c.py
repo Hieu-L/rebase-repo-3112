@@ -13,7 +13,7 @@ def myPow(x: float, n: int) -> float:
 
     Args:
         x: The base number (float)
-        n: The exponent (32-bit signed integer)
+        n: The exponent (32-bit s igned integer)
 
     Returns:
         x raised to the power n
