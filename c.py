@@ -12,7 +12,7 @@ def myPow(x: float, n: int) -> float:
     Implement pow(x, n) which computes x raised to the power n (x^n).
 
     Args:
-        x: The base number (float)
+        x: The  base number (float)
         n: The exponent (32-bit s igned integer)
 
     Returns:
