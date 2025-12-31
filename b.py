@@ -10,3 +10,7 @@ def foo_b(s:str) :
 def beebadoobee(sadfa):
     "adsfadfdasfa"
     return "NOTHING"
+
+def beebadoobee(sadfa):
+    "adsfadfdasfa"
+    return "NOTHING"

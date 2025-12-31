@@ -13,3 +13,6 @@ def foo_a(n: int) :
 def beebadoobee(sadfa):
     "adsfadfdasfa"
     return "NOTHING!!"
+def beebadoobee(sadfa):
+    "adsfadfdasfa"
+    return "NOTHING"
