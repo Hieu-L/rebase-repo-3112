@@ -1,0 +1,7 @@
+
+
+
+def foo_a(n: int) :
+    return (n+(n+1))/2
+
+
